@@ -24,6 +24,7 @@ To test the install, please open a Jupyter notebook and type the following in a 
 
 ```python
 %matplotlib inline
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
